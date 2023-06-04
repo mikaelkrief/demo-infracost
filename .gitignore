@@ -1,0 +1,5 @@
+.terraform
+.infracost
+terraform.tfstate
+terraform.tfstate.backup
+infracost-base.json
